@@ -42,7 +42,7 @@
 
 
 <h1 align="left">GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brcls&show_icons=true&theme=dracula&locale=en" alt="brcls" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brcls&show_icons=true&theme=dracula&locale=en&layout=compact" alt="brcls" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brcls&show_icons=true&theme=dracula&locale=en" alt="brcls" /></p>
