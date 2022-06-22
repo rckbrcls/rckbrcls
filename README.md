@@ -8,7 +8,7 @@
 </p>
 
 
-<h1 align="left">💻🔧 Tchnologies and Tools</h3>
+<h1 align="left">💻🔧 Technologies and Tools</h3>
 
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
