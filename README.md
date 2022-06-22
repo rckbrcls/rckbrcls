@@ -9,6 +9,7 @@
 
 
 <h1 align="left">💻🔧 Technologies and Tools</h1>
+
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,5 +43,6 @@
 <h1 align="left">📊 GitHub Stats</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brcls&show_icons=true&theme=dracula&locale=en&layout=compact" alt="brcls" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brcls&show_icons=true&theme=dracula&locale=en" alt="brcls" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brcls&show_icons=true&theme=dracula&locale=en" alt="brcls" /></p>
 
