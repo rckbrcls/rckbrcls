@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Erick Barcelos</h1>
-<h3 align="left">Passionate about technology and art, always trying to merge the best of both worlds. I love learning new things and discovering different points of view. <br>My current focus is Front-end development, but I'm curious about Back-end and Software Engineering.</h3>
+<h3 align="left">Passionate about technology and art, always trying to merge the best of both worlds. I love learning new things and discovering different points of view.<br><br>My current focus is Front-end development, but I'm curious about Back-end and Software Engineering.</h3>
 
 - 📫 How to reach me **brcls0502@gmail.com**
 
