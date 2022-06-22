@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Erick Barcelos</h1>
-<h3 align="center">Passionate about technology and art, always trying to merge the best of both worlds. I love learning new things and discovering different points of view. My current focus is Front-end development, but I'm curious about Back-end and Software Engineering.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brcls&label=Profile%20views&color=0e75b6&style=flat" alt="brcls" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brcls" alt="brcls" /></a> </p>
+<h1 align="left">Hi 👋, I'm Erick Barcelos</h1>
+<h3 align="left">Passionate about technology and art, always trying to merge the best of both worlds. I love learning new things and discovering different points of view. 
+  My current focus is Front-end development, but I'm curious about Back-end and Software Engineering.</h3>
 
 - 📫 How to reach me **brcls0502@gmail.com**
 
