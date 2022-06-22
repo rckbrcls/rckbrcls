@@ -8,7 +8,7 @@
 </p>
 
 
-<h1 align="left">Technologies and Tools</h3>
+<h1 align="left">💻🔧 Tchnologies and Tools</h3>
 
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,7 +41,7 @@
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-<h1 align="left">GitHub Stats</h3>
+<h1 align="left">📊 GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brcls&show_icons=true&theme=dracula&locale=en&layout=compact" alt="brcls" /></p>
 
 
