@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Erick Barcelos</h1>
 
+<h3> Aspiring software engineer.<h3>
+
 <h3 align="left">Connect with me:</h3>
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brcls0502@gmail.com)
