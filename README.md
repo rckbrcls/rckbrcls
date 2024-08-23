@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Erick Barcelos</h1>
-<h3 align="left">Enthusiastic about the intersection of technology and art, I am always on a quest to blend the best of both realms. My passion lies in constantly learning and exploring diverse perspectives.
-<br><br>
-Aspiring Software Engineer with a keen interest in mastering the Full Stack domain. Eager to contribute my skills and creativity to innovative projects that challenge and inspire.</h3>
+<h3 align="left">Enthusiastic about the intersection of technology and art, I am always on a quest to blend the best of both realms.</h3>
 
 <h3 align="left">Connect with me:</h3>
 
