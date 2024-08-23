@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Erick Barcelos</h1>
+<h1 align="left">Hi, I'm Erick Barcelos</h1>
 <h3 align="left">Enthusiastic about the intersection of technology and art, I am always on a quest to blend the best of both realms.</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -8,6 +8,6 @@
 
 <h1 align="left">📊 GitHub Stats</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brcls&show_icons=true&theme=dracula&locale=en" alt="brcls" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brcls&show_icons=true&theme=graywhite&locale=en" alt="brcls" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brcls&show_icons=true&theme=dracula&locale=en&layout=compact" alt="brcls" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brcls&show_icons=true&theme=graywhite&locale=en&layout=compact" alt="brcls" /></p>
