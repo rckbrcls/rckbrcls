@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Erick Barcelos</h1>
-<h3 align="left">Enthusiastic about the intersection of technology and art, I am always on a quest to blend the best of both realms.</h3>
+<p align="left">Enthusiastic about the intersection of technology and art, I am always on a quest to blend the best of both realms.</p>
 
 <h3 align="left">Connect with me:</h3>
 
