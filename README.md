@@ -8,6 +8,6 @@
 
 <h1 align="left">GitHub Stats</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brcls&show_icons=true&theme=transparent&locale=en" alt="brcls" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rckbrcls&show_icons=true&theme=transparent&locale=en" alt="rckbrcls" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brcls&show_icons=true&theme=transparent&locale=en&layout=compact" alt="brcls" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rckbrcls&show_icons=true&theme=transparent&locale=en&layout=compact" alt="rckbrcls" /></p>
