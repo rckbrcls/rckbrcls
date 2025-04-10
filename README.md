@@ -13,6 +13,12 @@
 
 ---
 
+### 🏆 GitHub Trophy Showcase
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rckbrcls&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
@@ -28,7 +34,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brcls)
 
 ---
-
-### ✨ Fun Fact
-
-I believe that **code can be poetry**—with the right flow, structure, and intention, it tells a story.
