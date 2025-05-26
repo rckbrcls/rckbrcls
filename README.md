@@ -13,12 +13,6 @@
 
 ---
 
-### 🏆 GitHub Trophy Showcase
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rckbrcls&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="left">
