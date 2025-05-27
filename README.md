@@ -6,18 +6,10 @@
 
 ### About
 
-- Developer focused on creative and interactive projects.  
-- Exploring UI/UX, generative art, and full-stack development.  
-- I aim to build tools that make sense and leave a mark.
-
----
-
-### GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rckbrcls&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rckbrcls&layout=compact&hide_border=true&theme=radical" />
-</p>
+- I see code as a creative tool — a way to build things that are both functional and expressive.  
+- Passionate about the overlap between technology, design, and art.  
+- I enjoy crafting clean architectures and writing solid software that’s easy to scale and maintain.  
+- My goal is to create digital experiences that are thoughtful, aesthetic, and impactful.
 
 ---
 
